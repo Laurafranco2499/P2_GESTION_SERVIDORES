@@ -1,0 +1,8 @@
+MYSQL_HOST= "sql8.freemysqlhosting.net"
+MYSQL_DB= "sql8699588"
+MYSQL_USER= "sql8699588"
+MYSQL_PASSWORD= "ag6fRICNA5"
+MYSQL_PORT= 3306
+
+
+
